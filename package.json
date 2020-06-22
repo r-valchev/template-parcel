@@ -1,0 +1,8 @@
+{
+  "name": "template-parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:r-valchev/template-parcel.git",
+  "author": "Radoslav Valchev <radoslav.vn@gmail.com>",
+  "license": "MIT"
+}
