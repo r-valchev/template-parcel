@@ -1,8 +1,11 @@
 {
-  "name": "template-parcel",
+  "name": "nebula",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:r-valchev/template-parcel.git",
   "author": "Radoslav Valchev <radoslav.vn@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
 }
