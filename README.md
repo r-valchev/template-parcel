@@ -7,12 +7,8 @@ Transpile ES6 and SCSS
 # To Include
 
 - posthtml-include
-- broswerSync
-- scss
 - svg sprite
 - minify images
-- minify css
-- minify js
 
 # Processes
 

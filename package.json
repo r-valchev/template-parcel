@@ -7,8 +7,8 @@
   "author": "Radoslav Valchev <radoslav.vn@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "parcel serve pages/*.html --open",
-    "build": "parcel build pages/*.html -d build --public-url ./"
+    "start": "parcel serve src/pages/*.html --open",
+    "build": "parcel build src/pages/*.html -d build --public-url ./"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
