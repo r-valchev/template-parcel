@@ -23,7 +23,6 @@ Transpile ES6 and SCSS
 - src
 	| - pages
 	| - partials
-	| - ajax
 	| - assets
 		| - scss
 		| - js
