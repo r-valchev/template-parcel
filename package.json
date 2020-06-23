@@ -1,6 +1,7 @@
 {
   "name": "nebula",
   "version": "1.0.0",
+  "description": "A parcel boilerplate",
   "main": "src/js/main.js",
   "repository": "git@github.com:r-valchev/template-parcel.git",
   "author": "Radoslav Valchev <radoslav.vn@gmail.com>",
@@ -11,5 +12,12 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
-  }
+  },
+  "keywords": [
+  	"parcel",
+  	"boilerplate",
+  	"template"
+  ],
+  "bugs": "https://github.com/r-valchev/template-parcel/issues",
+  "private": true,
 }
