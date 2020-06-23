@@ -11,12 +11,14 @@
     "build": "parcel build src/pages/*.html -d build --public-url ./"
   },
   "devDependencies": {
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.4",
+    "posthtml-include": "^1.4.3",
+    "sass": "^1.26.9"
   },
   "keywords": [
-  	"parcel",
-  	"boilerplate",
-  	"template"
+    "parcel",
+    "boilerplate",
+    "template"
   ],
   "bugs": "https://github.com/r-valchev/template-parcel/issues",
   "private": true

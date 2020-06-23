@@ -6,7 +6,6 @@ Transpile ES6 and SCSS
 
 # To Include
 
-- posthtml-include
 - svg sprite
 - minify images
 
