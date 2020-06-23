@@ -1,12 +1,12 @@
 {
   "name": "nebula",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/js/main.js",
   "repository": "git@github.com:r-valchev/template-parcel.git",
   "author": "Radoslav Valchev <radoslav.vn@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "parcel pages/*.html --open",
+    "start": "parcel serve pages/*.html --open",
     "build": "parcel build pages/*.html -d build --public-url ./"
   },
   "devDependencies": {
