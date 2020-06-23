@@ -1,13 +1,19 @@
+# WIP
+
 # Parcel boilerplate
 
 Simple boilerplate using parcel bundler.
 
 Transpile ES6 and SCSS
 
+#TODO ALL BELLOW
+
 # To Include
 
 - svg sprite
 - minify images
+- eslint
+- editorconfig
 
 # Processes
 
