@@ -12,8 +12,7 @@ Transpile ES6 and SCSS
 
 - svg sprite
 - minify images
-- eslint
-- editorconfig
+- to add eslint in dev mode ( show errors/warnings in console )
 
 # Processes
 
