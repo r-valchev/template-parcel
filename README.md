@@ -12,7 +12,8 @@ Transpile ES6 and SCSS
 
 - svg sprite
 - minify images
-- to add eslint in dev mode ( show errors/warnings in console )
+- to add eslint in dev mode ( show errors/warnings in console ) 
+- absolute paths to './src' folder
 
 # Processes
 
