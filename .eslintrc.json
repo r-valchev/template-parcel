@@ -42,12 +42,7 @@
 		],
 		"space-in-parens": [
 			"warn",
-			"always",
-			{
-				"exceptions": [
-					"empty"
-				]
-			}
+			"never"
 		]
 	}
 }

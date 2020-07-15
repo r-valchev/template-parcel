@@ -1,6 +1,8 @@
 import testModulesUI from './testModulesUI'
+import slidersUI from './slidersUI'
 
-( function() {
+(function() {
 	// Add your functions here.
 	testModulesUI()
-} )( window, document )
+	slidersUI()
+})(window, document)
