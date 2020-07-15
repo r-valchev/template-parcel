@@ -1,0 +1,53 @@
+{
+	"env": {
+		"browser": true,
+		"es2020": true
+	},
+	"extends": "eslint:recommended",
+	"parserOptions": {
+		"ecmaVersion": 11,
+		"sourceType": "module"
+	},
+	"rules": {
+		"indent": [
+			"warn",
+			"tab"
+		],
+		"no-mixed-spaces-and-tabs": [
+			"warn"
+		],
+		"linebreak-style": [
+			"warn",
+			"unix"
+		],
+		"no-unused-vars": [
+			"warn"
+		],
+		"quotes": [
+			"warn",
+			"single"
+		],
+		"semi": [
+			"warn",
+			"never"
+		],
+		"no-extra-semi": [
+			"warn"
+		],
+		"no-console": [
+			"warn"
+		],
+		"arrow-spacing": [
+			"warn"
+		],
+		"space-in-parens": [
+			"warn",
+			"always",
+			{
+				"exceptions": [
+					"empty"
+				]
+			}
+		]
+	}
+}

@@ -1,6 +1,6 @@
-import testModulesUI from './testModulesUI';
+import testModulesUI from './testModulesUI'
 
-;(function(window, document) {
+( function() {
 	// Add your functions here.
-	testModulesUI();
-})(window, document);
+	testModulesUI()
+} )( window, document )

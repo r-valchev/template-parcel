@@ -12,8 +12,7 @@ Transpile ES6 and SCSS
 
 - svg sprite
 - minify images
-- eslint
-- editorconfig
+- absolute paths to './src' folder
 
 # Processes
 
