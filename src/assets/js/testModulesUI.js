@@ -1,18 +1,18 @@
 const testLog = message => {
-	var myVar;
-	myVar = 'test';
+	var myVar
+	myVar = 'test'
 
-	var myVarSecond;
-	myVarSecond = 222;
+	var myVarSecond
+	myVarSecond = 222
 
-	console.log(myVarSecond);
+	console.log( myVarSecond )
 
 	// for (var i = 0; i < 10; i--) {
 	// 	console.log(i);
 	// }
-	console.log(message);
-};
+	console.log( message )
+}
 
 export default function testModulesUI() {
-	testLog('testLog from module');
+	testLog( 'testLog from module' )
 }

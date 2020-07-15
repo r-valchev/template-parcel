@@ -29,7 +29,7 @@
 		],
 		"semi": [
 			"warn",
-			"always"
+			"never"
 		],
 		"no-extra-semi": [
 			"warn"
@@ -39,6 +39,15 @@
 		],
 		"arrow-spacing": [
 			"warn"
+		],
+		"space-in-parens": [
+			"warn",
+			"always",
+			{
+				"exceptions": [
+					"empty"
+				]
+			}
 		]
 	}
 }
