@@ -12,6 +12,8 @@ const initSlider = (selector) => {
 			slidesPerView: 1,
 			spaceBetween: 24
 		})
+
+		console.log(swiper);
 	})
 }
 

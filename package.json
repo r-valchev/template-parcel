@@ -1,5 +1,5 @@
 {
-  "name": "nebula",
+  "name": "parcel-boilerplate",
   "version": "1.0.0",
   "description": "A parcel boilerplate",
   "main": "src/js/main.js",
@@ -8,7 +8,7 @@
   "license": "MIT",
   "scripts": {
     "start": "yarn serve",
-    "serve": "parcel src/pages/*.html --no-cache --open",
+    "serve": "parcel src/pages/*.html --open",
     "build": "parcel build src/pages/*.html -d build --public-url ./",
     "eslint": "esw 'src/assets/js/*'",
     "fix": "esw --fix --watch 'src/assets/js/*'"
@@ -26,7 +26,8 @@
   "keywords": [
     "parcel",
     "boilerplate",
-    "template"
+    "template",
+    "sass"
   ],
   "bugs": "https://github.com/r-valchev/template-parcel/issues",
   "private": true,
