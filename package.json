@@ -13,6 +13,9 @@
     "eslint": "esw 'src/assets/js/*'",
     "fix": "esw --fix --watch 'src/assets/js/*'"
   },
+  "dependencies": {
+    "swiper": "^6.0.3"
+  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
@@ -31,15 +34,4 @@
   ],
   "bugs": "https://github.com/r-valchev/template-parcel/issues",
   "private": true,
-  "dependencies": {
-    "swiper": "^6.0.3"
-  },
-  "eslintConfig": {
-    "extends": [
-      "parcel"
-    ],
-    "rules": {
-      "no-console": "warn"
-    }
-  }
 }

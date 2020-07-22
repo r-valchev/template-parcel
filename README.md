@@ -13,6 +13,7 @@ Transpile ES6 and SCSS
 - svg sprite
 - minify images
 - absolute paths to './src' folder
+- favicons
 
 # Processes
 
