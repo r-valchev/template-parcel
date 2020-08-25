@@ -1,7 +1,7 @@
 {
   "name": "parcel-boilerplate",
   "version": "1.0.0",
-  "description": "A parcel boilerplate",
+  "description": "Simple starter parcel boilerplate for HTML/SCSS projects.",
   "main": "src/js/main.js",
   "repository": "git@github.com:r-valchev/template-parcel.git",
   "author": "Radoslav Valchev <radoslav.valchev.web@gmail.com>",
@@ -28,10 +28,12 @@
   },
   "keywords": [
     "parcel",
+    "parcel-bundler",
     "boilerplate",
     "template",
-    "sass"
+    "sass",
+    "scss"
   ],
   "bugs": "https://github.com/r-valchev/template-parcel/issues",
-  "private": true,
+  "private": true
 }

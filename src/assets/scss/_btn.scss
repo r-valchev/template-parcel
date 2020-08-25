@@ -1,0 +1,19 @@
+/* ------------------------------------------------------------ *\
+	Buttons
+\* ------------------------------------------------------------ */
+
+.btn {
+	display: inline-flex;
+	vertical-align: middle;
+	justify-content: center;
+	align-items: center;
+	padding: 5px 15px;
+	border: 1px solid #000;
+	border-radius: 4px;
+	background: transparent;
+	font-size: 18px;
+	font-weight: 400;
+	cursor: pointer;
+	appearance: none;
+	-webkit-appearance: none;
+}

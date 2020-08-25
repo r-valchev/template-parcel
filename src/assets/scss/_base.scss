@@ -3,9 +3,56 @@
 \* ------------------------------------------------------------ */
 
 html {
-	font-size: 16px; 
+	font-size: 16px;
+	font-weight: 500;
+	line-height: 1.4;
+}
+
+a {
+	transition: color .4s;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin-bottom: 1rem;
 }
 
 h1 {
-	font-size: 50px; 
+	margin-bottom: 20px;
+	font-size: 50px;
+	font-weight: 800;
+	line-height: 1.44;
+}
+h2 {
+	font-size: 36px;
+	line-height: 1.1667;
+}
+h3 {
+	font-size: 24px;
+	font-weight: 800;
+}
+h4 {
+	font-size: 18px;
+	font-weight: 600;
+}
+h5 {
+	margin-bottom: 10px;
+	font-size: 16px;
+	font-weight: 600;
+	text-transform: uppercase;
+}
+h6 {
+	font-size: 14px;
+}
+
+p {
+	margin-bottom: 1rem;
+
+	&:last-child {
+		margin-bottom: 0;
+	}
 }
