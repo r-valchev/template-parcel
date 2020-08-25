@@ -8,10 +8,31 @@ Transpile ES6 and SCSS
 
 #TODO ALL BELLOW
 
+###How to include images
+
+To add `your-image.jpg` to you project, place it inside `images` folder use: 
+
+HTML
+```
+<img src="../assets/images/your-image.jpg" alt="Image description">
+```
+
+SCSS:
+```
+.element {
+	background-image: url(../images/your-image.jpg);
+}
+```
+
+###How to include partials
+
+To add header as a partial, create `header.html` file inside `partials` folder. To use it include in your HTML:
+```
+<include src="./header.html"></include>
+```
+
 Examples of adding
- - img - <img src="../assets/images/temp/image-coffee.jpg" alt="Image coffee magazine">
  - page
- - partial
  - scss
  - js module
 
