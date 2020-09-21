@@ -6,9 +6,9 @@ Simple starter boilerplate for HTML/SCSS projects.
 
 Transpile ES6 and SCSS
 
-#TODO ALL BELLOW
+# TODO ALL BELLOW
 
-###How to include images
+### How to include images
 
 To add `your-image.jpg` to you project, place it inside `images` folder use: 
 
@@ -24,7 +24,7 @@ SCSS:
 }
 ```
 
-###How to include partials
+### How to include partials
 
 To add header as a partial, create `header.html` file inside `partials` folder. To use it include in your HTML:
 ```
